@@ -1,4 +1,4 @@
-# Hey, I'm Masaru 👋
+# Hey, I'm Masaru
 
 **Bartender → Civil Engineer → Web Developer**  
 Based in **Tokyo, Japan** · Open to roles in Tokyo & remote worldwide
@@ -9,7 +9,7 @@ I'm a self-taught full-stack developer with a background in civil engineering. I
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,7 +25,7 @@ I'm a self-taught full-stack developer with a background in civil engineering. I
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 - **[barbrain](https://github.com/masarumoribe/barbrain)** — A bar management web app with AI assistance. Born from firsthand experience running a bar. Combines inventory, workflow, and an AI layer to make bartenders' lives easier.
 
@@ -33,7 +33,7 @@ I'm a self-taught full-stack developer with a background in civil engineering. I
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - Deepening my React + Python skills
 - Exploring AI integration in web apps (LLMs, APIs)
@@ -41,7 +41,7 @@ I'm a self-taught full-stack developer with a background in civil engineering. I
 
 ---
 
-## 💼 Open to Work
+## Open to Work
 
 I'm actively looking for:
 - **Junior to mid full-stack roles** in Tokyo (hybrid or in-person)
@@ -49,7 +49,7 @@ I'm actively looking for:
 
 If you're building something interesting and want someone who's fast to learn, reliable under pressure, and brings a human perspective to UX — let's talk.
 
-📬 [LinkedIn](https://www.linkedin.com/in/masaru-aya-moribe-829a99b9/)
+[LinkedIn](https://www.linkedin.com/in/masaru-aya-moribe-829a99b9/)
 
 ---
 
