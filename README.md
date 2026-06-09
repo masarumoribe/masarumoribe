@@ -1,6 +1,6 @@
 # Hey, I'm Masaru
 
-**Bartender → Civil Engineer → Web Developer**  
+**Civil Engineer → Bartender → Web Developer**  
 Based in **Tokyo, Japan** · Open to roles in Tokyo & remote worldwide
 
 I've spent years behind the bar — reading people, solving problems on the fly, and keeping things running smoothly under pressure. Somewhere along the way I fell in love with building things on the web, and I haven't looked back.
