@@ -7,6 +7,8 @@ I've spent years behind the bar — reading people, solving problems on the fly,
 
 I'm a self-taught full-stack developer with a background in civil engineering. I build web apps, dabble in AI tooling, and get genuinely excited about products that actually solve real problems for real people.
 
+Portfolio website → (https://masaru-moribe.dev)
+
 ---
 
 ## Tech Stack
